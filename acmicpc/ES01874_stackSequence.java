@@ -4,7 +4,8 @@ import java.util.Scanner;
 import java.util.LinkedList;
 
 public class ES01874_stackSequence {
-	/** No 출력 어떻게 하는지 모르겠어서 다른 사람 코드 복붙..
+	/** No 출력 어떻게 하는지 모르겠어서 다른 코드 참고 **/
+	/**
 	private final static Scanner sc = new Scanner(System.in);
 	
 	private void solve(){

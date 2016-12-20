@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class ES01966_queuePrinter {
-	/** 같은 중요도를 가졌을 때 어떻게 하는 지 모름...하 ...개빠가... **/
+	/** 같은 중요도를 가졌을 때 어떻게 하는 지 **/
 	/**
 	private final static Scanner sc = new Scanner(System.in);
 	

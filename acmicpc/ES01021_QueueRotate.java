@@ -5,7 +5,7 @@ import java.util.*;
 public class ES01021_QueueRotate {
 	private static final Scanner sc = new Scanner(System.in);
 	
-	/**내가 한 것.. 답은 나오는데 백준에서는 틀렸다고함... **/
+	/** 답은 나오는데 백준에서는 틀렸다 함 **/
 	/**
 	private void solve(){
 		int n = sc.nextInt();
